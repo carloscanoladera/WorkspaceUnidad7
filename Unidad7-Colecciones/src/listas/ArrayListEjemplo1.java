@@ -2,9 +2,9 @@ package listas;
 import java.util.*;
 
 class ArrayListEjemplo1 {
-	public static void main(String args[]) {
+	public static void main(String []args) {
 		
-		TreeSet s; 
+	
 		
 		ArrayList<String> al = new ArrayList<String>(20);
 		
