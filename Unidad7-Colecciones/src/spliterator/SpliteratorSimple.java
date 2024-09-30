@@ -11,7 +11,7 @@ public class SpliteratorSimple {
 
 		Spliterator<Integer> si = lista.spliterator();
 		si.forEachRemaining(n -> System.out.println(n));
-		Collections.
+	
 
 	}
 

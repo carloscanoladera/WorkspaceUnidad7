@@ -77,7 +77,7 @@ public class ConversionsBetweenColections {
 		arraylist1.removeAll(map1.values());
 		arraylist1.addAll(map1.values());
 
-		for (String valor: set2) {
+		for (String value: set2) {
 
 			map3.put(value, value);
 			

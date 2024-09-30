@@ -26,6 +26,8 @@ class HashMapDemo {
 		
 		hm.replace("Tod Hall", 1209.22);
 		
+		hm.put("Tod Hall", 1203.22);
+		
 	
 		hm2 = new HashMap<String,Double> (hm);
 		
